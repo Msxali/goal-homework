@@ -1,0 +1,1 @@
+#case sansitive means that pthon is looking at diferent cases diferently that mes if i write Print it will be error so i should prinr like these
